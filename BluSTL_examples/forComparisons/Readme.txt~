@@ -1,0 +1,5 @@
+1. Planar example for the illustrative example section
+2. BldgExample for the HVAC with hamlab model
+3. QuadExample for the 2-quadrotor autonomous atc study
+
+Requires prior installation of BluSTL and MPT. You will also have to comment out Sys.update_plot() and drawnow in STLC_run_open_loop for the examples to run without errors.

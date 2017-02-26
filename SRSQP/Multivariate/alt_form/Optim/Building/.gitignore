@@ -1,0 +1,6 @@
+ise_model/
+*.zip
+codegen/
+*.asv
+*.mex*
+

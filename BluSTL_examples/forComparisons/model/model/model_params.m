@@ -1,0 +1,9 @@
+n = 1;
+V_gebouw = 250;
+N_gebouwschil = 1;
+A_gebouwschil = 121;
+Rc_gebouwschil_gem = 2.5;
+N_interne_massa = 1;
+A_interne_massa = 50;
+Rc_glas = 0.33;
+A_glas_werk = 8;
